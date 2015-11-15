@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "doctrine/common": "dev-master",
+        "doctrine/common": "*",
         "kriswallsmith/buzz": "0.*"
     },
     "require-dev": {
